@@ -86,11 +86,11 @@ phone = "617-355-6388"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "300 Longwood Avenue", city = "Boston", region = "MA", postcode = "02445", country = "United States", country_code = "US"}
+address = {street = "300 Longwood Avenue", city = "Boston", region = "MA", postcode = "02115", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "42.337336", longitude = "-71.105816"}
 
 # Directions for visitors to locate you.
 directions = "tba"
@@ -120,7 +120,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "DrDrXanderLi"
 
 ############################
 ## Regional Settings
