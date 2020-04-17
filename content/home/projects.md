@@ -1,7 +1,7 @@
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
@@ -75,27 +75,18 @@ subtitle = ""
  css_class = ""
 +++
 
-## I. Generating a Developmental Atlas of Brain Connectivity (2018 - present)
+## Generating a Developmental Atlas of Brain Connectivity (2018 - present)
+  - Creating an atlas that combines all publicly available brain connectivity data, currently from more than 20,000 children and adolescents, into a single consistently processed and quality-controlled dataset that can be used by medical researchers as a ‘gold-standard’ reference of typical development.
 
-  Creating an atlas that combines all publicly available brain connectivity data, currently from more than 15,000 children and adolescents, into a single consistently processed and quality-controlled dataset that can be used by medical researchers as a ‘gold-standard’ reference of typical development.
-
-## II. Lesion network mapping of Autism-related Symptoms (2018 - present)
-
-  This project seeks to understand whether there is a particular network of regions impacted by lesions that are associated with social network impoverishment or loss of social skills, beyond that which can be explained by post-stroke depression and other independent risk factors. We are involved in a number of studies to help answer this question: 
+## Lesion network mapping of Autism-related Symptoms (2018 - present)
+  - This project seeks to understand whether there are particular networks of regions impacted by lesions that are associated with particular symptoms that are also seen in Autism Spectrum Disorders. We have begun several projects to help answer this question, starting with the symptom of face processing difficulties: 
     
-### *1. Using clinical cohorts and functional connectivity to identify the neuroanatomical basis of atypical face processing in autism spectrum disorders*
-
-  The goal of this project is to determine whether the pattern of cortical tubers in children with Tuberous Sclerosis Complex and/or a specific predicted network abnormality predicts their face processing ability
-
-### *2. Identifying the common neural substrate critical for face processing deficits*
-
-  The goal of this project is to determine whether 1) the pattern of cortical tubers in children with Tuberous Sclerosis Complex, and 2) functional connectivity abnormalities in adolescents with idiopathic Autism Spectrum Disorder converge on common network alterations that predict their face processing ability.
-
-### *3. The neuroanatomical basis for face processing deficits in autism spectrum disorder*
-
-  This study investigates the cause of face processing difficulties in ASD by leveraging information from patients with acquired prosopagnosia and prospective collection of MRI and behavioral data in adolescent subjects across a range of face-processing abilities.
-
-### *4. Performance on the Benton Face Recognition Task demonstrates a persistent correlation with ADOS Social Affect across age, sex, and IQ in multiple NDAR datasets*
-
-  Face processing difficulty affects a majority of individuals with ASD and while not part of the DSM-5 criteria for ASD, is thought to have significant effects on social skill deficits. This analysis assess the relationship between the Benton Face Recognition Task and ADOS Social Affect score to characterize the relationship between face processing abnormalities and social affect.
+      1. *Studying Face Processing in children with Tuberous Sclerosis Complex:*
+          - This study investigates whether the pattern of cortical tubers in children with Tuberous Sclerosis Complex predicts their face processing ability. If this is true, it would indicate which networks are *causally* involved in face processing difficulties.<p>
+      2. *Studying Face Processing in adolescents with Autism Spectrum Disorder:*
+          - This study investigates whether face processing difficulties in adolescents with ASD is correlated with specific brain network differences, a hypothesis generated from patients with acquired prosopagnosia, i.e., face blindness after brain injury. If this is true, it would mean that the same brain regions are *causally* involved in face processing difficulties in patients without brain injury.<p>
+      3. *Studying the correlation between Face Processing and Social Affect:*
+          - This study leverages large-scale existing datasets to quantify the relationship between face recognition ability and social affect.
+<p>
+  Moving forward, we have already started to investigate additional symptoms and are happy to collaborate with researchers interested in applying lesion network mapping to their data.
 
