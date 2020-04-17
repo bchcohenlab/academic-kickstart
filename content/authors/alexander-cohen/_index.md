@@ -22,8 +22,8 @@ bio: I am a pediatric neurologist and physician-scientist at Boston Children’s
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- The Brain
+- Playing Sitar
 
 education:
   courses:
@@ -34,7 +34,7 @@ education:
     institution: Boston Children's Hospital
     year: 2016-2018
   - course: Child and Adolescent Neurology Residency
-    institution: Name of Institution
+    institution: Mayo Clinic, Rochester
     year: 2011-2016
   - course: MD/PhD in Biology and Biomedical Sciences (Neurosciences)
     institution: Washington University in St. Louis School of Medicine
@@ -62,9 +62,9 @@ social:
   link: https://github.com/alexlicohen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/alexander_cohen_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,7 +73,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigators
-- Researchers
 - Clinicians
 ---
 

@@ -1,20 +1,20 @@
 ---
 # Display name
-name: "Mallory Kroeck, MA, BCN"
+name: "Peter McManus"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Mallory Kroeck"
+- Name "Peter McManus"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Specialist III
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital 
+- name: Boston Children's Hospital  
   url: ""
 - name: 
   url: ""
@@ -24,17 +24,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- Neuromodulation
-- Neurofeedback
+- 
+- 
 
 education:
   courses:
-  - course: M.A. Psychological Sciences
-    institution: Northern Arizona University
-    year: 2017-2019
-  - course: B.S. Cognitive Science, B.A. Psychology
-    institution: University of California, Santa Cruz
-    year: 2009-2013
+  - course: B.A. Cognitive Neuroscience 
+    institution: Washington University in St. Louis 
+    year: 2020
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,7 +66,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- 
+- Group 2
 ---
 
-Mallory Kroeck is originally from California, where she double-majored in Cognitive Science and Psychology from the University of California, Santa Cruz. Her interest in electrophysiological biomodulation lead her to a private clinical practice in northern California, where she gained experience to earn board-certification as a Neurofeedback Clinician. Before joining our team, Mallory completed her Master’s in Psychological Sciences from Northern Arizona University in Flagstaff, Arizona where she served as a mentor for the National Science Foundation's Research for Undergraduate Experience(REU). Mallory joined our lab in December 2019 and is eager to continue her professional growth while incorporating her interest in utilizing neuromodulation as a means to improve mental health.
+Peter recently graduated with a Bachelor's Degree in Cognitive Neuroscience from Washington University in St. Louis. He has a keen interest in understanding brain composition and functional network abnormalities in different neurodevelopmental and neurodegenerative disorders. Aiming to be a physician-scientis, he hopes to work at the intersection of research and medicine and help to invesitgate viable teatment methods to remedy various neurological disorders. Along with being an avid reader, Peter enjoys being outside and likes to golf and hike in his spare time. 

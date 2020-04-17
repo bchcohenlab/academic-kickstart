@@ -1,22 +1,22 @@
 ---
 # Display name
-name: "Mallory Kroeck, MA, BCN"
+name: "Maya Fray-Witzer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Mallory Kroeck"
+- Name "Maya Fray-Witzer"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Specialist III
+role: Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital 
+- name: Middlebury College   
   url: ""
-- name: 
+- name: Brigham and Women's Hospital
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,17 +24,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- Neuromodulation
-- Neurofeedback
+- 
+- 
 
 education:
   courses:
-  - course: M.A. Psychological Sciences
-    institution: Northern Arizona University
-    year: 2017-2019
-  - course: B.S. Cognitive Science, B.A. Psychology
-    institution: University of California, Santa Cruz
-    year: 2009-2013
+  - course: BA Psychology (in progress)
+    institution: Middlebury College 
+    year:
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,8 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- 
+- Alumni
 ---
 
-Mallory Kroeck is originally from California, where she double-majored in Cognitive Science and Psychology from the University of California, Santa Cruz. Her interest in electrophysiological biomodulation lead her to a private clinical practice in northern California, where she gained experience to earn board-certification as a Neurofeedback Clinician. Before joining our team, Mallory completed her Master’s in Psychological Sciences from Northern Arizona University in Flagstaff, Arizona where she served as a mentor for the National Science Foundation's Research for Undergraduate Experience(REU). Mallory joined our lab in December 2019 and is eager to continue her professional growth while incorporating her interest in utilizing neuromodulation as a means to improve mental health.
+Maya is a Psychology major and Japanese minor studying at Middlebury College in Vermont. Although she loves her campus jobs - ski-instructing and oratory coaching - Maya returns to the Boston area during the summers to work with various hospitals in the Longwood Area. Previously, she helped Dr. Cohen to find possible indicators of autism in MRI images, and more recently acquired some training in Python to aid him in the creation of a "developmental atlas" of connectomes. This summer, Maya is combining her passion for Psychology with her strengths in writing and public speaking as she steps into her new research assistant position in the Harvard Medical School Division of Sleep and Circadian Disorders at Brigham and Women's Hospital. She is excited to be part of an ongoing effort to educate the public about the importance of sleep, and to conduct heuristic testing on apps that could revolutionize public sleep hygiene.
