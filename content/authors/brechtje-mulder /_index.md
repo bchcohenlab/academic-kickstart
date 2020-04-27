@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Student
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
 - Alumni
 ---
 
-: Bretchje received her Bachelor’s Degree of Medicine at VU University Amsterdam in 2018. From September 2018 until March 2019, Bretchje did a research elective at BCH with Dr. Jurriaan Peters and the Cohen Lab on a project to understand the network effects of TSC tubers on infantile spasms. After completing her research elective, Bretchje returned to VU University in Amsterdam to complete her medical training. She is now working at Amsterdam UMC Hospital aiding COVID-19 patients and is glad to be contributing during these extraordinary times. Bretchje is looking forward to restarting her clinical rotations again soon and, given her positive experience in Boston, hopes to work abroad again as well.
+Bretchje received her Bachelor’s Degree of Medicine at VU University Amsterdam in 2018. From September 2018 until March 2019, Bretchje did a research elective at BCH with Dr. Jurriaan Peters and the Cohen Lab on a project to understand the network effects of TSC tubers on infantile spasms. After completing her research elective, Bretchje returned to VU University in Amsterdam to complete her medical training. She is now working at Amsterdam UMC Hospital aiding COVID-19 patients and is glad to be contributing during these extraordinary times. Bretchje is looking forward to restarting her clinical rotations again soon and, given her positive experience in Boston, hopes to work abroad again as well.
