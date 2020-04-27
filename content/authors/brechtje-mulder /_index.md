@@ -31,7 +31,7 @@ education:
   courses:
   - course: Bachelor’s Degree of Medicine 
     institution: VU University Amsterdam
-    year:2015-2018
+    year: 2015-2018
   - course: Research Elective
     institution: Boston Children’s Hospital
     year: 2018-2019
