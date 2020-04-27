@@ -4,7 +4,7 @@ name: "Brechtje Mulder, BS"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "brechtje-mulder"
+- Name "Brechtje Mulder"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Rotations at Amsterdam UMC Hospital 
+- name: Amsterdam UMC Hospital 
   url: ""
 - name: 
   url: ""
