@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Brechtje Mulder, BS"
+title: "Brechtje Mulder, BS"
 
 # Username (this should match the folder name and the name on publications)
 authors:

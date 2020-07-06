@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Ivry Zagurly-Orly, MMedEd"
+title: "Ivry Zagurly-Orly, MMedEd"
 
 # Username (this should match the folder name and the name on publications)
 authors:

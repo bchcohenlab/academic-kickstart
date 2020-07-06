@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Mallory Kroeck, MA, BCN"
+title: "Mallory Kroeck, MA, BCN"
 
 # Username (this should match the folder name and the name on publications)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Louis Soussand, BA, MS"
+title: "Louis Soussand, BA, MS"
 
 # Username (this should match the folder name and the name on publications)
 authors:

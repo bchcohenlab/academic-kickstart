@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Meghan McAnally, MD, MPH"
+title: "Meghan McAnally, MD, MPH"
 
 # Username (this should match the folder name and the name on publications)
 authors:

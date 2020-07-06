@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Alexander Cohen, MD, PhD"
+title: "Alexander Cohen, MD, PhD"
 
 # Username (this should match the folder name and the name on publications)
 authors:

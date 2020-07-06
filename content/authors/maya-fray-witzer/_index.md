@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Maya Fray-Witzer"
+title: "Maya Fray-Witzer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
