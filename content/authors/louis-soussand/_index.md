@@ -67,5 +67,4 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-: 
+Louis Soussand grew up in Paris before attending Connecticut College where he earned a Bachelor of Art in Biological Sciences with an emphasis on bioinformatics and minoring in mathematics. After his junior year, he started interning at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology working on a project combining cancer epidemiology and statistical computing. After two years at DFCI, he left to earn a Master of Science in Biostatistics at the University of Michigan. Passionate about the applications of biostatistics to medical research, he joined Cohen Lab in 2017 to build the lab computational infrastructures with Dr. Cohen and develop computational tools for research. Sharing his time between Cohen Lab and Fox Lab at BIDMC, Louis contributed to the analysis of many diseases including prosopagnosia, infantile spasms, mania, Parkinson, hallucinations, depression, and migraine. After two years with Cohen lab, he returned to France and is now working as a senior data scientist at Assistance Publique – Hôpitaux de Paris in the French National Bank for Rare Diseases Data (Banque Nationale de Données Maladies Rares).
