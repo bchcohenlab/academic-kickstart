@@ -32,9 +32,6 @@ education:
   - course: B.A. Cognitive Neuroscience 
     institution: Washington University in St. Louis 
     year: 2020
-  - course: 
-    institution: 
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +66,6 @@ user_groups:
 - Group 2
 ---
 
-Peter recently graduated with a Bachelor's Degree in Cognitive Neuroscience from Washington University in St. Louis. He has a keen interest in understanding brain composition and functional network abnormalities in different neurodevelopmental and neurodegenerative disorders. Aiming to be a physician-scientis, he hopes to work at the intersection of research and medicine and help to invesitgate viable teatment methods to remedy various neurological disorders. Along with being an avid reader, Peter enjoys being outside and likes to golf and hike in his spare time. 
+Peter recently graduated (in May 2020) with a Bachelor’s Degree in Cognitive Neuroscience from Washington University in St. Louis. He has a keen interest in understanding brain composition and functional network abnormalities present in different neurodevelopmental and neurodegenerative disorders. His previous undergraduate research experiences include investigating brain changes induced by mindfulness meditation and the neural mechanisms of spatial navigation in healthy and aging cohorts; these projects sparked a general interest in conducting neuroscientific research with clinical relevance and/or therapeutic potential. 
+
+In the future, he plans to attend medical school and eventually engage in patient care, translational research efforts, or both. Along with being an avid reader, he likes to golf, play basketball, and hike in his spare time. 
