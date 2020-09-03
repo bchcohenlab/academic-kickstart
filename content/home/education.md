@@ -109,3 +109,9 @@ Good articles to read:
 - https://realpython.com/documenting-python-code/
 - http://statsthinking21.org/
 
+## Introduction to MRI-fMRI
+
+Useful Courses (free):
+- https://www.coursera.org/learn/neuroscience-neuroimaging
+- https://www.coursera.org/learn/functional-mri
+- https://www.coursera.org/learn/functional-mri-2

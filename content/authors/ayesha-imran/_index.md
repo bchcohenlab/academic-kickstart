@@ -1,37 +1,36 @@
----
 # Display name
-title: "Peter McManus"
+title: "Ayesha Imran"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Peter McManus"
+- Name "Ayesha Imran"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Clinical Research Assistant
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital  
+- name: Boston Children's Hospital 
   url: ""
 - name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Neurodegenerative Disorders
-- Golf
+- Neurology
+- Yoga, Meditation
 
 education:
   courses:
-  - course: B.A. Cognitive Neuroscience 
-    institution: Washington University in St. Louis 
-    year: 2020
+  - course: B.S. Neuroscience, Minors in Psychology & Women/Gender Studies
+    institution: Emmanuel College
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,9 +62,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Group 2
+- 
 ---
 
-Peter recently graduated (in May 2020) with a Bachelor’s Degree in Cognitive Neuroscience from Washington University in St. Louis. He has a keen interest in understanding brain composition and functional network abnormalities present in different neurodevelopmental and neurodegenerative disorders. His previous undergraduate research experiences include investigating brain changes induced by mindfulness meditation and the neural mechanisms of spatial navigation in healthy and aging cohorts; these projects sparked a general interest in conducting neuroscientific research with clinical relevance and/or therapeutic potential. 
-
-In the future, he plans to attend medical school and eventually engage in patient care, translational research efforts, or both. Along with being an avid reader, he likes to golf, play basketball, and hike in his spare time. 
+​My name is Ayesha Imran, I am an undergrad senior at Emmanuel College, majoring in Neuroscience with minors in psychology and women/gender studies. I am fascinated with working with MRIs/fMRIs and analysis related to neuroimaging. I hope that during this internship I will gain a broader understanding of the clinical field of neurology and anticipate attaining skills that will prove useful when considering future opportunities. During my off time I usually try to help out at home, catch up with friends, go for hikes and do yoga or meditation. I am so excited to start this new position and get to know and work with everyone on the team!
