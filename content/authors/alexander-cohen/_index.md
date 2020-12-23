@@ -51,6 +51,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: address-card
+  icon_pack: fas
+  link: https://connects.catalyst.harvard.edu/Profiles/display/Person/149497
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DrDrXanderli

@@ -38,6 +38,12 @@ courses:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:Jurriaan.Peters@childrens.harvard.edu"
+- icon: address-card
+  icon_pack: fas
+  link: https://connects.catalyst.harvard.edu/Profiles/display/Person/61017
 - icon: google-scholar
   icon_pack: ai
   link:  https://scholar.google.com/citations?user=s4op3OEAAAAJ&hl=en​
