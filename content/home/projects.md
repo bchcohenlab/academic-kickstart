@@ -75,9 +75,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## Generating a Developmental Atlas of Brain Connectivity (2018 - present)
-  - Creating an atlas that combines all publicly available brain connectivity data, currently from more than 20,000 children and adolescents, into a single consistently processed and quality-controlled dataset that can be used by medical researchers as a ‘gold-standard’ reference of typical development.
-
 ## Lesion network mapping of Autism-related Symptoms (2018 - present)
   - This project seeks to understand whether there are particular networks of regions impacted by lesions that are associated with particular symptoms that are also seen in Autism Spectrum Disorders. We have begun several projects to help answer this question, starting with the symptom of face processing difficulties: 
     
@@ -89,4 +86,12 @@ subtitle = ""
           - This study leverages large-scale existing datasets to quantify the relationship between face recognition ability and social affect.
 <p>
   Moving forward, we have already started to investigate additional symptoms and are happy to collaborate with researchers interested in applying lesion network mapping to their data.
+
+## Generating Developmental Atlases of Brain Connectivity (2018 - present)
+  - This project utilizes publicly available brain connectivity data, currently from more than 20,000 children and adolescents, into single consistently processed and quality-controlled datasets that can be used by medical researchers as a ‘gold-standard’ reference of typical development.
+
+     1. The GSP1000 Processed Connectome is derived from data acquired by the Brain Genomics Superstruct Project (GSP), which contained 1570 subjects in total (ages 18-36). From this dataset, 1000 subjects (1:1 M/F) were chosen and processed using publicly available tools to generate a normative functional connectivity dataset.
+Click this link to download:'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ILXIKS'
+
+
 
