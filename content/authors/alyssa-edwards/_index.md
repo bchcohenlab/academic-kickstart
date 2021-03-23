@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Ivry Zagurly-Orly, MMedEd"
+title: "Alyssa Edwards"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Ivry Zagurly-Orly"
+- Name "Alyssa Edwards"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,9 +14,7 @@ role: Medical Student
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard Medical School 
-  url: ""
-- name: 
+- name: Case Western Reserve University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,16 +22,16 @@ bio:
 
 # List each interest with a dash
 interests:
-- Medical Education
- 
+- Neurodevelopmental Disorders
+- Alleviating Health Disparities
 
 education:
   courses:
   - course: M.D. Candidate
-    institution: University of Montreal
-    year:
-  - course: Master of Medical Sciences in Medical Education 
-    institution: Harvard Medical School
+    institution: Case Western Reserve University - School of Medicine
+    year: 2024
+  - course: Masters of Public Health
+    institution: Case Western Reserve University 
     year: 2020
 
 # Social/Academic Networking
@@ -65,7 +63,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
+- 
 ---
 
-: Ivry grew up in Montreal and attended McGill University for undergrad, where he graduated with honors with a Bachelor of Science in Rehabilitation Science, majoring in Occupational Therapy. Subsequently, he enrolled in medical school at University of Montreal and completed his preclinical years in 2018. His strong interest in medical education led him to take a two-year leave from medical school to pursue the Master of Medical Sciences in Medical Education at Harvard Medical School, to graduate in 2020. During his time in Boston, he had the opportunity to be part of Dr. Cohen’s Lab where he was introduced to the world of ASD research by investigating the relationship between social affect and face recognition. He will be completing his clinical clerkships and aspires to continue developing his passion for critical thinking and clinical research, whatever his clinical career may be.
+Alyssa graduated from Case Western Reserve University with her Bachelor of Arts in Cognitive Science and her Master's of Public Health with a concentration in health promotion and disease prevention in May of 2020. She is currently a first year medical student at Case Western Reserve School of Medicine. Alyssa's current research interests include Autism Spectrum, neuroimaging, and health disparities in individuals with developmental disabilities. She had a diverse background in research throughout her undergraduate career. From tracing the underlying causes of Autism using cerebral organoids, looking at genetic markers associated with prostate cancer, to traveling to Ghana in 2018 where she spent three months researching biomarkers associated with resistance to malaria. Fun fact, she climbed Mt. Kilimanjaro during her time in Africa.  Alyssa could not be happier to be a part of the Cohen Lab!  
