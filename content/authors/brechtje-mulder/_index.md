@@ -23,7 +23,7 @@ bio:
 # List each interest with a dash
 interests:
 - Medical Education
-- 
+ 
 
 education:
   courses:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Alyssa Edwards"
+title: "Alyssa Edwards, MPH"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -25,7 +25,7 @@ bio:
 # List each interest with a dash
 interests:
 - Neurodevelopmental disorders
-- 
+ 
 
 education:
   courses:
