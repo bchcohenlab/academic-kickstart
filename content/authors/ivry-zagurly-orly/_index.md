@@ -25,16 +25,16 @@ bio:
 # List each interest with a dash
 interests:
 - Medical Education
- 
+- 
 
 education:
   courses:
-  - course: M.D. Candidate
-    institution: University of Montreal
-    year:
   - course: Master of Medical Sciences in Medical Education 
     institution: Harvard Medical School
-    year: 2020
+    year:
+  - course: 
+    institution: University of Montreal
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
