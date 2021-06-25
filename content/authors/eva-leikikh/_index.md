@@ -1,20 +1,22 @@
 ---
 # Display name
-title: "Ayesha Imran"
+title: "Eva Leikikh"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "ayesha-imran"
+- Name "Eva Leikikh"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Research Assistant
+role: High School Research Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital 
+- name: Pingree School  
+  url: ""
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,14 +24,13 @@ bio:
 
 # List each interest with a dash
 interests:
-- Neurology
-- Yoga, Meditation
+- The Sciences
 
 education:
   courses:
-  - course: B.S. Neuroscience, Minors in Psychology & Women/Gender Studies
-    institution: Emmanuel College
-    year: 2021
+  - course: General Studies
+    institution: Pingree School
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,8 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
-- 
+- Researchers
 ---
 
-My name is Ayesha Imran, I am an undergrad senior at Emmanuel College, majoring in Neuroscience with minors in psychology and women/gender studies. I am fascinated with working with MRIs/fMRIs and analysis related to neuroimaging. I hope that during this internship I will gain a broader understanding of the clinical field of neurology and anticipate attaining skills that will prove useful when considering future opportunities. During my off time I usually try to help out at home, catch up with friends, go for hikes and do yoga or meditation. I am so excited to start this new position and get to know and work with everyone on the team!
+Eva Leikikh is in her senior year at Pingree School in Hamilton, MA. Over the last three years, Eva has focused her studies on sciences and mathematics, as well as pursuing her interest in environmental studies and sustainability. Eva spent the summer of 2019 in Fiji studying marine biology and coral reef conservation. The work included reef surveys, planting mangroves, building natural sea walls, and removing invasive starfish. In her final year at Pingree, she will serve as varsity field hockey captain, Math Team captain, GAINS (Girls Advancing in STEM) club leader, and will complete her two year tenure as Green Team leader. Green Team focuses on education and initiatives surrounding conservation and sustainability. She intends to enter undergraduate studies next year on a pre-med track anchored in physics and neuroscience. This summer, Eva will be an intern working closely with Dr. Jurriaan Peters on segmenting lesions in the brain.
