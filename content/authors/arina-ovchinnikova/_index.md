@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: College Intern
+role: Undergraduate Research Intern
 
 # Organizations/Affiliations
 organizations:
