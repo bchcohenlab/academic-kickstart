@@ -38,7 +38,7 @@ education:
   - course: M.D.
     institution: University of Cincinatti College of Medicine
     year: 2014-2018
-  - course: B.A. - Neuroscience
+  - course: B.A. Neuroscience
     institution: Washington University in St. Louis
     year: 2010-2014
 
