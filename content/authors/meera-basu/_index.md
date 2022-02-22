@@ -75,6 +75,4 @@ user_groups:
 - 
 ---
 
-Hometown: Cincinnati, OH
-
 Meera is a neurology resident at Boston Children's Hospital studying neuroimaging correlates that predict differences in outcomes for children born with congenital diaphragmatic hernia. She earned her MD from University of Cincinnati College of Medicine and completed pediatrics residency training through the Boston Combined Residency Program at Boston Children's Hospital and Boston Medical Center.
