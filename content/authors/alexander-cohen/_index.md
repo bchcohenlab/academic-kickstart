@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Principle Investigator
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
@@ -79,6 +79,8 @@ user_groups:
 - Clinicians
 ---
 
-Alexander Cohen is an Instructor of Neurology at Boston Children’s Hospital who specializes in translational neuroimaging approaches to understand and develop treatments for neurodevelopmental disorders. He earned his BA, MD, and PhD from Washington University in St. Louis, and did his Child Neurology training at the Mayo Clinic in Minnesota. He joined BCH in 2016 as a Pediatric Behavioral Neurology fellow and did his post-doctoral training in the Computational Radiology Laboratory at BCH and the Laboratory for Brain Network Imaging and Modulation at Beth Israel Deaconess Medical Center. 
+Alexander Li Cohen is a physician-scientist and Assistant Professor in the Department of Neurology at Boston Children's Hospital and Harvard Medical School. 
 
-Now, he sees patients in the Autism Spectrum Center and Behavioral Neurology Clinic at BCH and has created a translational neuroimaging laboratory focusing on identifying the causal neuroanatomy of symptoms in autism that can serve as treatment targets for non-invasive stimulation.
+He received his B.A. in Biology and Biomedical Physics and his M.D. and Ph.D. degrees from Washington University School of Medicine in St. Louis where he focused on neuroimaging research that formed the basis for the Human Connectome Project. He then completed residency training in pediatrics and child neurology at Mayo Clinic in Rochester, MN and a clinical fellowship in pediatric behavioral neurology followed by a T32 postdoc fellowship translational research in neurodevelopmental disorders here at Boston Children's Hospital.
+
+His current research focuses on identifying which brain circuits are involved in specific symptoms seen in neurodevelopmental disorders using network neuroimaging techniques and coming up with ways to modulate these brain circuits with non-invasive neuromodulation such as TMS and real-time fMRI neurofeedback. His work has been supported by the Child Neurology Foundation Shields Award, a K23 from the NIMH, and soon by a Simons Foundation Bridge to Independence Award. He also continues to care for patients in the Autism Spectrum Center and Behavioral Neurology Clinic as part of the new multidisciplinary Brain, Mind, and Behavior Center at Two Brookline Place.
