@@ -26,7 +26,7 @@ bio:
 interests:
 - Pediatric Neurology
 - Behavioral disorders
-- Travelling
+- Traveling
 - Team sports
 
 education:
