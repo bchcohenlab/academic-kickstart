@@ -33,10 +33,10 @@ education:
     institution: Boston Children's Hospital
     year: 2020-
   - course: Pediatrics Residency
-    institution: Boston Childrens's Hospital/Boston Medical Center
+    institution: Boston Children's Hospital/Boston Medical Center
     year: 2018-2020
   - course: M.D.
-    institution: University of Cincinatti College of Medicine
+    institution: University of Cincinnati College of Medicine
     year: 2014-2018
   - course: B.A. Neuroscience
     institution: Washington University in St. Louis
