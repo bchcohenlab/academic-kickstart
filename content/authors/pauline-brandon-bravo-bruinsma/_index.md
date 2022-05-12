@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: B.A. Medicine, 2021 
+  - course: B.A. Medicine 
     institution: Vrije Universiteit (VU) Amsterdam   
     year: 2021
 
