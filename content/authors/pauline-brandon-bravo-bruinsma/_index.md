@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Pauline Brandon Bravo Bruinsma, BA"
+title: "Pauline Brandon Bravo Bruinsma, BS"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: B.A. Medicine 
+  - course: B.S. Medicine 
     institution: Vrije Universiteit (VU) Amsterdam   
     year: 2021
 
