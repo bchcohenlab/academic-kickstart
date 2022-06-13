@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Keturah Warner"
+title: "Faiza Yasin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Keturah Warner"
+- Name "Faiza Yasin"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Undergraduate COACH Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Salem State University  
+- name: Boston Children's Hospital  
   url: ""
 - name: 
   url: ""
@@ -23,15 +23,16 @@ organizations:
 bio: 
 
 # List each interest with a dash
-interests: 
-- Beach Walking
+interests:
+- Neurology
+- Photography
 - Traveling
 
 education:
   courses:
-  - course: Healthcare Studies 
-    institution: Salem State University 
-    year: 2023
+  - course: B.A. Biology
+    institution: The University of Massachusetts Boston 
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,7 +63,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
+- Group 2
 ---
 
-Keturah Warner is a rising junior at Salem State University studying Health care studies with a minor in Biology and Chemistry. Keturah is in her fifth year as a COACH intern here at Boston Children's Hospital. After her undergraduate studies, she plans on going to graduate school to study perfusion. For fun, she likes to go on walks at the beach, read and travel. She is excited to learn more about neurology and be a part of the Cohen Lab team. 
+“Faiza Yasin is a Biology Major at The University of Massachusetts Boston. She is currently a third year COACH intern at Boston Children’s Hospital. Faiza has a keen interest in all areas of the research field. She is excited to learn more about the neurology field during her time at the Cohen lab! For fun, Faiza enjoys photography and traveling.”
