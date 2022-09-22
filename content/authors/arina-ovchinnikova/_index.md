@@ -16,11 +16,11 @@ role: Undergraduate Research Intern
 organizations:
 - name: Emmanuel College  
   url: ""
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
@@ -62,9 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Arina Ovchinnikova is a senior at Emmanuel College studying Biology with a concentration in Neuroscience. Over the summer, she completed a data analytic internship and a patient care internship back in her home country of Russia. After her undergraduate studies, she plans on pursuing a career in research and a Master’s in Bio Data Analytics. For fun, she likes to go on long hikes, read, and travel. She is excited to have the opportunity to learn more about data science and neurology from the Cohen lab team.
-
-

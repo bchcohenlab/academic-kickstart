@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Juliana Wall, BA"
+title: "Jiaqi Zhao, BS"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Juliana Wall"
+- Name "Jiaqi Zhao"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Clinical Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital  
+- name: Boston Children's Hospital
   url: ""
 - name:
   url: ""
@@ -24,15 +24,16 @@ bio:
 
 # List each interest with a dash
 interests:
-- Photography
-- Languages
-- Neuropsychology
+- Pet blogging
+- Movies
+- Playing piano
+
 
 education:
   courses:
-  - course: B.A. Psychology
-    institution: Boston University
-    year: 2017-2021
+  - course: B.S. Applied Mathematics
+    institution: Syracuse University
+    year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +65,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- 
+-
 ---
 
-Juliana graduated from Boston University in May 2021 with a bachelor’s degree in psychology. Topics of her previous research include quality of life in Parkinson's Disease, language acquisition and development in individuals with and without autism, and genetic and environmental correlates of learning disorders. She is interested in studying brain development and disorders using neuroimaging techniques such as MRI and is excited to explore this interest at the Cohen Lab. In the future, she plans to pursue her PhD in clinical psychology and continue her research on children with neurodevelopmental disorders. In her free time, she enjoys photography, traveling, learning languages, and playing the violin.
+Jiaqi graduated from Syracuse University in December 2021 with a bachelor’s degree in Applied Mathematics. She developed an interest in Data Science through her undergraduate research experiences, and she is curious about brain composition and networks. Jiaqi is more than excited to join Cohen Lab and explore her interests further. In the future, she plans to pursue her master’s degree in Data Science. Besides being a pet blogger, she loves to watch movies, explore cool places, and play piano in her free time.

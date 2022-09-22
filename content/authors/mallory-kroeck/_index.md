@@ -14,13 +14,13 @@ role: Research Specialist III
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital 
+- name: Boston Children's Hospital
   url: ""
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
@@ -65,8 +65,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- 
+- Alumni
+-
 ---
 
 Mallory Kroeck is originally from California, where she double-majored in Cognitive Science and Psychology from the University of California, Santa Cruz. Her interest in electrophysiological biomodulation lead her to a private clinical practice in northern California, where she gained experience to earn board-certification as a Neurofeedback Clinician. Before joining our team, Mallory completed her Master’s in Psychological Sciences from Northern Arizona University in Flagstaff, Arizona where she served as a mentor for the National Science Foundation's Research for Undergraduate Experience(REU). Mallory joined our lab in December 2019 and is eager to continue her professional growth while incorporating her interest in utilizing neuromodulation as a means to improve mental health.

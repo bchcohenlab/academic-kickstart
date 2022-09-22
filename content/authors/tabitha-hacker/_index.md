@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Juliana Wall, BA"
+title: "Tabitha Hacker, BA"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Juliana Wall"
+- Name "Tabitha Hacker"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Clinical Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital  
+- name: Boston Children's Hospital
   url: ""
 - name:
   url: ""
@@ -24,15 +24,15 @@ bio:
 
 # List each interest with a dash
 interests:
-- Photography
-- Languages
-- Neuropsychology
+- Swimming
+- Hiking
+
 
 education:
   courses:
-  - course: B.A. Psychology
-    institution: Boston University
-    year: 2017-2021
+  - course: B.A. Neuroscience, Africana Studies
+    institution: Bowdoin College
+    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +64,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- 
+-
 ---
 
-Juliana graduated from Boston University in May 2021 with a bachelor’s degree in psychology. Topics of her previous research include quality of life in Parkinson's Disease, language acquisition and development in individuals with and without autism, and genetic and environmental correlates of learning disorders. She is interested in studying brain development and disorders using neuroimaging techniques such as MRI and is excited to explore this interest at the Cohen Lab. In the future, she plans to pursue her PhD in clinical psychology and continue her research on children with neurodevelopmental disorders. In her free time, she enjoys photography, traveling, learning languages, and playing the violin.
+Tabitha graduated from Bowdoin College in May 2022 with a bachelor’s degree in neuroscience and Africana Studies. Her undergraduate research interests included hemispheric lateralization of cognitive functions, CAG triplet repeats and neurodegerneration, and reproductive autonomy among Black women in the United States. She is excited to join the Cohen Lab to further explore her interest in Neuroimaging and gain exposure to clinical research. In the future, she plans to attend medical school and earn a MD/MPH. Outside of her professional life, Tabitha enjoys swimming, hiking, and trying new restaurants.

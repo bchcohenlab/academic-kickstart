@@ -16,11 +16,11 @@ role: Clinical Research Assistant
 organizations:
 - name: Boston Children's Hospital  
   url: ""
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
@@ -28,8 +28,8 @@ interests:
 
 education:
   courses:
-  - course: B.A. Cognitive Neuroscience 
-    institution: Washington University in St. Louis 
+  - course: B.A. Cognitive Neuroscience
+    institution: Washington University in St. Louis
     year: 2020
 
 # Social/Academic Networking
@@ -61,10 +61,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Group 2
+- Alumni
 ---
 
-Peter graduated from Washington University in St. Louis in 2020 with a bachelor’s degree in Cognitive Neuroscience. He has a keen interest in understanding brain composition and functional network abnormalities present in different neurodevelopmental and neurodegenerative disorders. His previous undergraduate research experiences include investigating brain changes induced by mindfulness meditation and the neural mechanisms of spatial navigation in healthy and aging cohorts; these projects sparked a general interest in conducting neuroscience research with clinical relevance and therapeutic potential. 
+Peter graduated from Washington University in St. Louis in 2020 with a bachelor’s degree in Cognitive Neuroscience. He has a keen interest in understanding brain composition and functional network abnormalities present in different neurodevelopmental and neurodegenerative disorders. His previous undergraduate research experiences include investigating brain changes induced by mindfulness meditation and the neural mechanisms of spatial navigation in healthy and aging cohorts; these projects sparked a general interest in conducting neuroscience research with clinical relevance and therapeutic potential.
 
-In the future, he plans to attend medical school. Along with being an avid reader, he likes to golf, play basketball, and hike in his spare time. 
+In the future, he plans to attend medical school. Along with being an avid reader, he likes to golf, play basketball, and hike in his spare time.

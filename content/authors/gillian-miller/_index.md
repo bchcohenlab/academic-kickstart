@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Juliana Wall, BA"
+title: "Gillian Miller, BA"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Juliana Wall"
+- Name "Gillian Miller"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Clinical Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Children's Hospital  
+- name: Boston Children's Hospital
   url: ""
 - name:
   url: ""
@@ -24,15 +24,16 @@ bio:
 
 # List each interest with a dash
 interests:
-- Photography
-- Languages
-- Neuropsychology
+- MRI
+- Crochet
+- Cats
+
 
 education:
   courses:
-  - course: B.A. Psychology
-    institution: Boston University
-    year: 2017-2021
+  - course: B.A. Psychology and Cognitive Science
+    institution: Johns Hopkins University
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +65,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- 
+-
 ---
 
-Juliana graduated from Boston University in May 2021 with a bachelor’s degree in psychology. Topics of her previous research include quality of life in Parkinson's Disease, language acquisition and development in individuals with and without autism, and genetic and environmental correlates of learning disorders. She is interested in studying brain development and disorders using neuroimaging techniques such as MRI and is excited to explore this interest at the Cohen Lab. In the future, she plans to pursue her PhD in clinical psychology and continue her research on children with neurodevelopmental disorders. In her free time, she enjoys photography, traveling, learning languages, and playing the violin.
+Gillian graduated from Johns Hopkins University in 2020 with a bachelor’s degree in Cognitive Science and Psychology. Her main area of focus is autism research, with particular interest in MRI-based methodologies. She has previously been involved in research on movement and reading in autism and has worked in inpatient and outpatient clinical settings. In the future, Gillian plans to pursue a PhD in clinical psychology and conduct autism research that focuses on underrepresented groups. 
